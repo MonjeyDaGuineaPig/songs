@@ -1,0 +1,16 @@
+use_bpm 150
+play :g3
+sleep 1
+play :g3
+sleep 1
+play :g3
+sleep 1
+play :c
+sleep 2
+play :g
+sleep 2
+play :f
+sleep 0.5
+play :e
+sleep 0.5
+play :d
